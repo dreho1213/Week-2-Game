@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll A Ball Tutorial",
+"dataUrl": "Week 2 Unity GOA.data.unityweb",
+"asmCodeUrl": "Week 2 Unity GOA.asm.code.unityweb",
+"asmMemoryUrl": "Week 2 Unity GOA.asm.memory.unityweb",
+"asmFrameworkUrl": "Week 2 Unity GOA.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
